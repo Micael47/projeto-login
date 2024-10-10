@@ -89,7 +89,7 @@ form > .campo {
     border: none;
     border-radius: 8px;
     text-indent: 5px;
-    transform: translateY(-10px);
+    transform: translateY(-10.5px);
 }
 
 form > input[type=submit] {
@@ -116,7 +116,7 @@ form > .botao {
     height: 40px;
     color: black;
     background-color: lightgray;
-    padding-top: 7px;
+    padding-top: 6px;
     text-align: center;
     text-decoration: none;
     border: 1px solid rgb(175, 175, 175);
